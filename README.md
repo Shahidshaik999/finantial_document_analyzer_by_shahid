@@ -786,6 +786,17 @@ curl -X POST "http://localhost:8001/analyze" \
 - Consider upgrading to Groq Dev Tier (free, higher limits)
 
 ---
+**Outputs**
+<img width="1536" height="912" alt="image" src="https://github.com/user-attachments/assets/99e4cfd3-9294-4b04-9bda-b876702fd5bb" />
+<img width="1507" height="792" alt="image" src="https://github.com/user-attachments/assets/f4f5b0ca-9300-442b-84a2-84969aedb1a8" />
+<img width="1498" height="771" alt="image" src="https://github.com/user-attachments/assets/cc14f055-1fff-4941-84ce-fc325afb846d" />
+<img width="1545" height="901" alt="image" src="https://github.com/user-attachments/assets/f0631c52-0779-4193-ac69-3d3ca7d33955" />
+<img width="1516" height="332" alt="image" src="https://github.com/user-attachments/assets/fcab46ac-76bf-4408-b458-494e4d659217" />
+
+
+
+
+
 
 ## 💡 Lessons Learned
 
@@ -1003,3 +1014,4 @@ Made with ❤️ and lots of ☕
 
 </div>
 ](https://github.com/Shahidshaik999/finantial_document_analyzer_by_shahid)
+
