@@ -952,22 +952,8 @@ pip install -r requirements.txt
 python verify_implementation.py
 ```
 
----
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
 
 ## 🙏 Acknowledgments
 
@@ -975,18 +961,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Groq** for fast, free LLM API
 - **FastAPI** for the excellent web framework
 - **The open-source community** for inspiration and tools
-
----
-
-## 📊 Project Stats
-
-- **Lines of Code:** ~2,000+
-- **Documentation:** 9 files, 15,000+ words
-- **Bugs Fixed:** 15/15 (100%)
-- **Test Coverage:** Production-ready
-- **Token Optimization:** 70% reduction
-- **Development Time:** 3 days
-- **Status:** ✅ Production-ready
 
 ---
 
@@ -1013,5 +987,6 @@ Made with ❤️ and lots of ☕
 
 </div>
 ](https://github.com/Shahidshaik999/finantial_document_analyzer_by_shahid)
+
 
 
