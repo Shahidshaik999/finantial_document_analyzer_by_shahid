@@ -1,0 +1,18 @@
+# Core dependencies
+crewai>=1.9.3
+crewai-tools>=1.9.3
+fastapi>=0.110.3
+uvicorn>=0.29.0
+python-dotenv>=1.0.1
+pypdf>=4.2.0
+python-multipart>=0.0.9
+
+# LLM support (Groq via LiteLLM)
+litellm>=1.81.0
+
+# Database support
+sqlalchemy>=2.0.29
+
+# Queue worker support (optional - for async processing)
+redis>=5.0.3
+rq>=1.16.1
